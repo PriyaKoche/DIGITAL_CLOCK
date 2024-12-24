@@ -1,7 +1,7 @@
 ## Digital Clock
 This is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time (hours, minutes, seconds) along with the current date, updating every second.
 
-#Features
+# Features
 Current Time: Displays the current hour, minute, and second, updating every second.
 Current Date: Displays the current day, month, and year.
 Leading Zeros: Automatically adds leading zeros for single-digit hours, minutes, and seconds.
